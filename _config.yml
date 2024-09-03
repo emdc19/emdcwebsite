@@ -24,26 +24,26 @@ author:
   avatar           : "pp_lr.jpg"
   name             : "Enrique M. del Castillo"
   pronouns         : "he/him/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Palo Alto, CA"
   employer         : "Stanford University"
   uri              : # URL
   email            : "emdc@stanford.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=TC6VCWsAAAAJ&hl=en"
-  impactstory      : # URL
-  orcid            : "https://www.researchgate.net/profile/Enrique-Del-Castillo-2"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  #impactstory      : # URL
+  orcid            : https://orcid.org/0000-0002-7505-1705
+  #semantic         : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     :  "https://www.researchgate.net/profile/Enrique-Del-Castillo-2"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  #github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
