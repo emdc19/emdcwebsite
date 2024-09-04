@@ -15,4 +15,5 @@ main:
     url: /teaching/    
 
   - title: "CV"
-    url: /cv/
+    #url: /cv/
+    url: /cv/files/cv_Enrique.pdf
