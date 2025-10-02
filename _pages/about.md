@@ -12,12 +12,13 @@ I am a Ph.D. candidate in Geomechanics in the Department of Civil and Environmen
 
 ## News
 
-<ul class="news-list">
-  {% for item in site.data.news %}
-  <li>
-    <strong>{{ item.date }}</strong> {{ item.text }}
-  </li>
-  {% endfor %}
-</ul>
+{% for item in site.data.news %}
+<div class="news-item">
+  <h3 class="news-title"><a href="{{ item.url }}">{{ item.title }}</a></h3>
+  <div class="news-date">{{ item.date }}</div>
+  <p class="news-body">{{ item.body }}</p>
+</div>
+{% endfor %}
+
 
 
