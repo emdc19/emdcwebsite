@@ -30,6 +30,13 @@
 
 @import "forms";
 
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* Your overrides live here */
+@import "custom";   /* ✅ this pulls in assets/css/_custom.scss */
+
 @import "page";
 @import "archive";
 @import "sidebar";
