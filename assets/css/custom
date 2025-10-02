@@ -1,0 +1,13 @@
+.news-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.news-list li {
+  margin-bottom: 1.2em;
+}
+
+.news-list strong {
+  display: inline-block;
+  width: 120px; /* adjust for alignment */
+}
