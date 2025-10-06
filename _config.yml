@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Enrique M. del Castillo"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him/his"  
+  #bio              : "Short biography for the left-hand sidebar"
   location         : "Princeton, NJ"
   employer         : "Princeton University"
   uri              : # URL
