@@ -24,10 +24,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Enrique M. del Castillo"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Princeton, NJ"
   employer         : "Princeton University"
   uri              : # URL
   email            : "emdc@princeton.org" 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/enrique-m-del-castillo-6211ba169/"
+  linkedin         : "https://www.linkedin.com/in/enrique-m-del-castillo-6211ba169"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -99,7 +99,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
