@@ -10,8 +10,8 @@ read_time: false
 show_date: false
 date: 2025-01-01              # keeps Jekyll/MM templates happy; not shown
 header:
-  teaser: /assets/images/projects/retro.jpg   # shows on listing cards
-  # image:  /assets/images/projects/fracture-hero.jpg  # remove/leave commented to avoid hero
+  teaser: /assets/images/retro.jpg   # shows on listing cards
+  # image:  /assets/images/fracture-hero.jpg  # remove/leave commented to avoid hero
 ---
 
 Increasing climate volatility demands understanding **post-failure behavior** and designing **resilient, safe-to-fail** infrastructure.
@@ -26,9 +26,9 @@ Increasing climate volatility demands understanding **post-failure behavior** an
 
 ---
 
-{% include figure image_path="/assets/images/projects/retro.jpg" alt="Retrogressive landslide (SPH)" caption="Retrogressive landslides modeled with coupled hydromechanical SPH." %}
+{% include figure image_path="/assets/images/retro.jpg" alt="Retrogressive landslide (SPH)" caption="Retrogressive landslides modeled with coupled hydromechanical SPH." %}
 
-{% include figure image_path="/assets/images/projects/retro.jpg" alt="Wave–structure interaction" caption="Wave/debris flow–structure interaction for coastal/offshore infrastructure." %}
+{% include figure image_path="/assets/images/retro.jpg" alt="Wave–structure interaction" caption="Wave/debris flow–structure interaction for coastal/offshore infrastructure." %}
 
 {# Duplicate the figure include for more topics/images as needed. #}
 
