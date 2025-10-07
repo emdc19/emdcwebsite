@@ -1,24 +1,33 @@
+
 ---
 title: "Large Deformation Modeling of Natural Hazards"
+layout: single
 collection: talks
-type: "Talk"
-permalink: /talks/LD
-excerpt: Phase-field + experiments for resilient infrastructure.
+permalink: /talks/ld/         # use a trailing slash; all lowercase is safer
+author_profile: false
+read_time: false
+show_date: false
+date: 2025-01-01              # keeps Jekyll/MM templates happy; not shown
 header:
-  teaser: /assets/images/projects/retro.jpg  # full path required
-  image:  /assets/images/projects/fracture-hero.jpg    # optional hero on the item page
+  teaser: /assets/images/projects/retro.jpg   # shows on listing cards
+  # image:  /assets/images/projects/fracture-hero.jpg  # remove/leave commented to avoid hero
+---
+
+Increasing climate volatility demands understanding **post-failure behavior** and designing **resilient, safe-to-fail** infrastructure.
+
+**Large deformations (SPH):** Coupled hydromechanical SPH for geomechanical problems such as retrogressive landslides and embankment failure—building on dissertation work in SPH: tailings dam stability/failure, dynamic & static liquefaction.
+
+**Wave/debris flow–structure interaction:** Simulating waves impacting coastal/offshore structures (e.g., wind turbines).
+
+**Scalability:** Large-scale 3D simulations leveraging HPC.
+
+**Future:** Regional-scale simulation of dam and levee failure (e.g., overtopping, storm surge), and 2D/3D dam-break flood modeling to support emergency action planning.
 
 ---
 
+{% include figure image_path="/assets/images/projects/retro.jpg" alt="Retrogressive landslide (SPH)" caption="Retrogressive landslides modeled with coupled hydromechanical SPH." %}
 
-Increasing climate volatility, need to understand post-failure behavior and resilient “safe-to-fail”
-rather than “fail-safe” infrastructure.Large deformations: Smoothed Particle Hydrodynamics (SPH) Coupled hydromechanical models for SPH. Model geomechanical problems:
-retrogressive landslides, embankment failure
-uilding upon dissertation work using SPH: Tailing dam stability and
-failure. Dynamic and static liquefaction. Wave or debris flow-structure
-interaction: simulating waves impacting coastal or offshore structures, e.g.
-wind turbines. Large-scale 3D simulations leveraging HPC
+{% include figure image_path="/assets/images/projects/fracture-hero.jpg" alt="Wave–structure interaction" caption="Wave/debris flow–structure interaction for coastal/offshore infrastructure." %}
 
-Future: Regional-scale Simulation of Dam and Levee failure:
-Modeling of Levee Failure due to overtopping, storm surge. 2D and 3D
-modeling of dam break failure floods to develop emergency action plans
+{# Duplicate the figure include for more topics/images as needed. #}
+
