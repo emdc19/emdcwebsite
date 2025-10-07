@@ -24,7 +24,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /files/cv_Enrique.pdf
+    url: https://github.com/emdc19/emdcwebsite/blob/master/files/cv_Enrique.pdf
     
   # - title: "CV"
   #   url: /cv-json/
