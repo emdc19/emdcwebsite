@@ -1,11 +1,9 @@
-- date: "Sep 8, 2025"
-  text: ' I presented a poster 
+- title: "Joined Prof. Liuchi Li’s research group at Princeton"
+  date: "Sep 1, 2025"
+  url: "https://www.liuchili.info/"
+  body: "I am excited to announce that I have joined the research group of Prof. Liuchi Li in the Department of Civil and Environmental Engineering at Princeton University as a postdoctoral research associate."
 
-- date: "Jun 4, 2025"
-  text: 'I gave a talk 
-  
-- date: "Apr 16, 2025"
-  text: 'I gave a presentationed simulations”.'
-
-- date: "Feb 19, 2025"
-  text: 'Our paper: 
+- title: "Submitted my dissertation and graduated from Stanford"
+  date: "Jun 15, 2025"
+  url: "https://searchworks.stanford.edu/view/in00000451198"
+  body: "I submitted my dissertation “Large deformation modeling of dry and saturated geomaterials in geotechnics and tectonics using smoothed particle hydrodynamics,” advised by Prof. Ronaldo I. Borja, and graduated from Stanford University."
