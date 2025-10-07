@@ -12,6 +12,6 @@
   date: "Jan 31, 2025"
   url: "/files/dissertationflyer.pdf"
   image:
-    src: "/images/news/dissertation-defense.jpg" # <— put the photo here
+    src: "/images/defense.jpg" # <— put the photo here
     alt: "Dissertation defense flyer/photo"
   body: "Chaired by Prof. Ellen Kuhl, with dissertation committee members Prof. Ronaldo I. Borja, Prof. Christian Linder, Prof. Paul Segall, and Prof. Nicholas Ouellette."
