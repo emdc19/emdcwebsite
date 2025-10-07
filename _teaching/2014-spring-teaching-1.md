@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1: CEE 315: Plasticity Modeling
+title: "CEE 315: Plasticity Modeling
 and Computation "
 collection: teaching
 type: "Graduate course"
