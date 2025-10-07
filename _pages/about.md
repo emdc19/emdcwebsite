@@ -22,4 +22,13 @@ In my doctoral research, I developed a meshfree computational framework based on
 
 I envision my future research group employing a wide palette of computational tools to tackle problems at the intersection of geotechnics, natural hazards engineering, computational mechanics, granular matter, and geophysics. Future research directions for our research group will include modeling granular materials across scales, seeking to capture the transition from initial failure to subsequent flow-like behavior, using continuum, discrete, and data-driven surrogate meshfree approaches, as well as phase-field and continuum damage modeling of localized failure in porous, fluid-saturated materials (glaciers, ice sheets, geological reservoirs). 
 
+## News
+
+<ul class="news-list">
+  {% for item in site.data.news %}
+  <li>
+    <strong>{{ item.date }}</strong> {{ item.text }}
+  </li>
+  {% endfor %}
+</ul>
 
