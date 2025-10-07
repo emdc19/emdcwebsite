@@ -18,6 +18,6 @@ Increasing climate volatility demands understanding **post-failure behavior** an
 
 ---
 
-![Retrogressive landslide (SPH)](/assets/images/retro.jpg)
+![Retrogressive landslide (SPH)](/images/retro.jpg)
 
-![Wave/debris flow–structure interaction](/assets/images/retro.jpg)
+![Wave/debris flow–structure interaction](/images/retro.jpg)
