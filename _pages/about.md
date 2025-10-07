@@ -24,8 +24,6 @@ I envision my future research group employing a wide palette of computational to
 
 ## News
 
-## News
-
 {% for item in site.data.news %}
 <div class="news-item">
   <h3 class="news-title"><a href="{{ item.url }}">{{ item.title }}</a></h3>
