@@ -2,7 +2,7 @@
 title: "Large Deformation Modeling of Natural Hazards"
 collection: talks
 type: "Talk"
-permalink: /talks/1
+permalink: /talks/LD
 
 ---
 
