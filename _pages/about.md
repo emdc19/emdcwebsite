@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Brief Bio:"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 Enrique M. del Castillo is a postdoctoral research associate working with Prof. Liuchi Li in the Department of Civil and Environmental Engineering at Princeton University. Starting in July 2026, Enrique will be a tenure-track assistant professor in the Department of Civil and Environmental Engineering at Northeastern University. He obtained his MS and PhD in Civil Engineering (Geomechanics) at Stanford University, where he was advised by Prof. Ronaldo Borja and received the NSF Graduate Research Fellowship, the Stanford Graduate Fellowship, and the Siebel Scholarship. Prior to his time at Stanford, Enrique completed an AB in Geosciences at Princeton University where he was the recipient of the Arthur F. Buddington Award in Geosciences and the PRISM Best Senior Thesis Award in Material Science and Engineering. Enrique’s research focuses on computational modeling of faults, fractures, and deformation bands, as well as on the post-failure behavior of geomaterials using meshfree methods, with implications for understanding earthquake-related hazards and improving critical infrastructure resilience.
 
 
-A data-driven personal website
+Research Group 
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
