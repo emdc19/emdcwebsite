@@ -17,4 +17,4 @@ different element types in the incompressible limit, and how to avoid volumetric
 – Student reviews: In the question “overall, how effective was the instruction you received from
 this instructor?” out of 9 respondents (13 students total) I scored the “very effective” as the
 median score. In the question “How much did you learn from this instructor?” I scored “A lot”
-as the median score.
+as the median score. 
