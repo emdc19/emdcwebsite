@@ -10,9 +10,8 @@
 
 - title: "Defended my dissertation at Stanford"
   date: "Jan 31, 2025"
- url: "https://emdc19.github.io/emdcwebsite/files/dissertationflyer.pdf"
-image:
-  src: "https://emdc19.github.io/emdcwebsite/images/defense.jpg"
-    src: "/images/defense.jpg" # <— put the photo here
+  url: "https://emdc19.github.io/emdcwebsite/files/dissertationflyer.pdf"
+  image:
+    src: "https://emdc19.github.io/emdcwebsite/images/defense.jpg"
     alt: "Dissertation defense flyer/photo"
   body: "Chaired by Prof. Ellen Kuhl, with dissertation committee members Prof. Ronaldo I. Borja, Prof. Christian Linder, Prof. Paul Segall, and Prof. Nicholas Ouellette."
