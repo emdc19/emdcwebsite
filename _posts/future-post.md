@@ -1,6 +1,6 @@
 ---
 title: 'Large Deformation Modeling of Natural Hazards'
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/future-post/
 tags:
   - cool posts
   - category1
