@@ -28,7 +28,7 @@ Increasing climate volatility demands understanding **post-failure behavior** an
 
 {% include figure image_path="/assets/images/projects/retro.jpg" alt="Retrogressive landslide (SPH)" caption="Retrogressive landslides modeled with coupled hydromechanical SPH." %}
 
-{% include figure image_path="/assets/images/projects/fracture-hero.jpg" alt="Wave–structure interaction" caption="Wave/debris flow–structure interaction for coastal/offshore infrastructure." %}
+{% include figure image_path="/assets/images/projects/retro.jpg" alt="Wave–structure interaction" caption="Wave/debris flow–structure interaction for coastal/offshore infrastructure." %}
 
 {# Duplicate the figure include for more topics/images as needed. #}
 
