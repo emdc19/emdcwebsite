@@ -7,3 +7,11 @@
   date: "Jun 15, 2025"
   url: "https://searchworks.stanford.edu/view/in00000451198"
   body: "I submitted my dissertation “Large deformation modeling of dry and saturated geomaterials in geotechnics and tectonics using smoothed particle hydrodynamics,” advised by Prof. Ronaldo I. Borja, and graduated from Stanford University."
+
+- title: "Defended my dissertation at Stanford"
+  date: "Jan 31, 2025"
+  url: "/files/dissertation-flyer.pdf"
+  image:
+    src: "/images/news/dissertation-defense.jpg" # <— put the photo here
+    alt: "Dissertation defense flyer/photo"
+  body: "Chaired by Prof. Ellen Kuhl, with dissertation committee members Prof. Ronaldo I. Borja, Prof. Christian Linder, Prof. Paul Segall, and Prof. Nicholas Ouellette."
