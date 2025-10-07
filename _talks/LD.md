@@ -3,8 +3,13 @@ title: "Large Deformation Modeling of Natural Hazards"
 collection: talks
 type: "Talk"
 permalink: /talks/LD
+excerpt: Phase-field + experiments for resilient infrastructure.
+header:
+  teaser: /assets/images/projects/retro.jpg  # full path required
+  image:  /assets/images/projects/fracture-hero.jpg    # optional hero on the item page
 
 ---
+
 
 Increasing climate volatility, need to understand post-failure behavior and resilient “safe-to-fail”
 rather than “fail-safe” infrastructure.Large deformations: Smoothed Particle Hydrodynamics (SPH) Coupled hydromechanical models for SPH. Model geomechanical problems:
