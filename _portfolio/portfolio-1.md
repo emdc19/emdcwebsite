@@ -1,6 +1,6 @@
 ---
 title: "PI: Dr. Enrique M. del Castillo"
-excerpt: "PI: Dr. Enrique M. del Castillo 1<br/><img src='/images/profile2.png'>"
+excerpt: "PI: Dr. Enrique M. del Castillo <br/><img src='/images/profile2.png'>"
 collection: portfolio
 ---
 Incoming Assistant Professor
