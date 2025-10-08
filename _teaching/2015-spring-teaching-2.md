@@ -5,7 +5,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Stanford University, CEE Department"
-date: 2015-01-01
+date: 2025-01-01
 location: "Stanford, USA"
 ---
 Teaching Assistant, Stanford University, Graduate course (Master’s level), CEE 281: Mechanics and
