@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The del Castillo Research Group"
+%title: "The del Castillo Research Group"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,11 +8,15 @@ redirect_from:
 ---
 {% include base_path %}
 
-**Welcome to our lab website!!** 👋😊
-
 ![Lab logo]({{ base_path }}/images/lablogoTrans.png)
 
-Welcome to the del Castillo Research Group at Northeastern University, led by Dr. Enrique M. del Castillo. Our research explores the mechanics and physics of granular and porous media—soil, rock, ice, and snow—using computational and experimental methods, with a focus on natural hazards, geotechnics, and geomechanics across spatial scales.
+Welcome to the **del Castillo Research Group** at Northeastern University, led by Dr. Enrique M. del Castillo. Our objective as a research group is to further
+fundamental understanding of the mechanics and physics governing complex materials, geosystems, and harnessing this knowledge for solving engineering and geophysical challenges in relation to the built environment. 
+
+From a methodology standpoint, in addition to developing computational methods, we use simulation and experimentation to probe and
+improve mechanistic theory, and to create **computational digital twins** of geomaterials and earth structures.
+
+Our research explores the mechanics and physics of granular and porous media—soil, rock, ice, and snow—using computational and experimental methods, with a focus on natural hazards, geotechnics, and geomechanics across spatial scales.
 
 Since granular materials are the second most abundant type of material on Earth, understanding how they deform, localize, and fail has broad societal benefit—from earthquake hazard mitigation to the design of resilient infrastructure. Our work bridges continuum, discrete, and data-driven computational methods with field and experimental data to advance this understanding.
 
