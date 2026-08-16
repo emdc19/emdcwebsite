@@ -25,9 +25,9 @@ By **geosystems** we tackle problems spanning geomechanics, structural geology, 
 
 The del Castillo Research Group focuses on four interconnected areas:
 
-![Research framework1]({{ base_path }}/images/process.png)
+![Research framework1]({{ base_path }}/images/stages2.png)
 
-![Research framework2]({{ base_path }}/images/scale.png)
+![Research framework2]({{ base_path }}/images/scale2.png)
 
 
 
