@@ -1,35 +1,64 @@
 ---
 permalink: /
-title: "Brief Bio:"
+title: "The del Castillo Research Group"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Enrique M. del Castillo is a postdoctoral research associate working with Prof. Liuchi Li in the Department of Civil and Environmental Engineering at Princeton University. In July 2026, he will join Northeastern University as a tenure-track assistant professor in Civil and Environmental Engineering. He earned his MS and PhD in Civil Engineering (Geomechanics) at Stanford University under Prof. Ronaldo I. Borja, supported by the NSF Graduate Research Fellowship, the Stanford Graduate Fellowship, and the Siebel Scholar award. He holds an A.B. in Geosciences from Princeton University, where he received the Arthur F. Buddington Award in Geosciences and the PRISM Best Senior Thesis Award in Materials Science and Engineering.
+**Welcome to our lab website!!** 👋😊
 
-His research focuses on computational modeling of faults, fractures, and deformation bands, and on the post-failure behavior of geomaterials using meshfree methods, with implications for understanding earthquake-related hazards as well as improving critical infrastructure resilience and energy security. The del Castillo Research Group also advances fundamental understanding of fracture and friction, couples simulation and experimentation to test mechanistic theory, and builds computational digital twins of geomaterials and earth structures. At Northeastern, Dr. del Castillo will direct the Geotechnical and Sustainable Materials Laboratory, equipped for modern materials/geotechnical testing and high-velocity optical imaging for Digital Image Correlation (DIC).
+![Lab logo]({{ site.baseurl }}/images/lab-logo.png)
+
+Welcome to the del Castillo Research Group at Northeastern University, led by Dr. Enrique M. del Castillo. Our research explores the mechanics and physics of granular and porous media—soil, rock, ice, and snow—using computational and experimental methods, with a focus on natural hazards, geotechnics, and geomechanics across spatial scales.
+
+Since granular materials are the second most abundant type of material on Earth, understanding how they deform, localize, and fail has broad societal benefit—from earthquake hazard mitigation to the design of resilient infrastructure. Our work bridges continuum, discrete, and data-driven computational methods with field and experimental data to advance this understanding.
+
+---
+
+### Overview of Research
+
+The del Castillo Research Group focuses on four interconnected areas:
+
+![Research framework]({{ site.baseurl }}/images/research-framework.png)
 
 
 
-Research Interests 
-======
+### 1. 🌍 Meshfree Computational Modeling of Geomaterials
 
-I am broadly interested in the mechanics and physics of granular and porous media found in nature such as soil, rock, ice, and snow, using both computational and experimental methods, particularly in the context of natural hazards, geotechnics and geomechanics across spatial scales, as well as in interdisciplinary problems related to Earth surface processes, and tectonics, often involving large deformations. Since granular materials are the second most abundant type of material on earth, comprehending their behavior can offer vast societal benefit.
+We develop meshfree computational frameworks, including smoothed particle hydrodynamics (SPH), to model large-deformation, coupled hydromechanical problems in geotechnics and geomechanics.
 
-In my doctoral research, I developed a meshfree computational framework based on the smoothed particle hydrodynamics (SPH) method well-suited for modeling coupled-hydromechanical problems involving large deformations in geotechnics and geomechanics. Some of the problems I am currently working on include debris flows and their associated impact forces, the stability and failure of tailing dams, earthquake fault rupture deformation, the propagation of compaction bands in porous rock and the corresponding alteration in fluid flow through these structures, and the formation and mechanics of accretionary wedges. My research integrates computational modeling with geodetic measurements and other field data, while aiming to contribute to preparedness against natural hazards and increasing critical infrastructure resilience. In addition, much of my research deals with understanding and modeling the failure of geomaterials using particulate or discontinuum approaches such as in the discrete element method technique (DEM), seeking to understand failure at the grain-scale to uncover the inner-workings of earth surface and tectonic processes. Lastly, I also use data-driven modeling using constitutive artificial neural networks to develop new material models for geomaterials such as shale rock, and further research will use grain-scale data to discover meso- and continuum- scale behavior in geomaterials. 
+### 2. 🌋 Structural Geology, Tectonics, and Volcanology
 
-I envision my future research group employing a wide palette of computational tools to tackle problems at the intersection of geotechnics, natural hazards engineering, computational mechanics, granular matter, and geophysics. Future research directions for our research group will include modeling granular materials across scales, seeking to capture the transition from initial failure to subsequent flow-like behavior, using continuum, discrete, and data-driven surrogate meshfree approaches, as well as phase-field and continuum damage modeling of localized failure in porous, fluid-saturated materials (glaciers, ice sheets, geological reservoirs). 
+We model large-deformation tectonic and volcanic processes, including fault rupture, accretionary wedge formation, and compaction band propagation in porous rock.
+
+### 3. ⚡ Geomaterials & Geomechanics for Sustainable Energy Infrastructure
+
+We study the mechanics of geomaterials relevant to energy storage, extraction, and critical infrastructure resilience.
+
+### 4. 💥 Nonlinear Mechanics and Physics of Dynamic Fracture
+
+We investigate the fundamental mechanics of fracture and friction in geomaterials, coupling simulation with experimentation to test mechanistic theory.
+
+If you share our vision for advancing resilient, sustainable infrastructure through geomechanics, we would love to hear from you — check out the Research Projects page for more detail, and stay tuned for opportunities to join the group.
 
 ## News
 
 {% for item in site.data.news %}
 <div class="news-item">
-  <h3 class="news-title"><a href="{{ item.url }}">{{ item.title }}</a></h3>
-  <div class="news-date">{{ item.date }}</div>
-  <p class="news-body">{{ item.body }}</p>
+  {% if item.image %}
+  <div class="news-item__image">
+    <img src="{{ item.image.src }}" alt="{{ item.image.alt }}">
+  </div>
+  {% endif %}
+  <div class="news-item__content">
+    <h3 class="news-title">{{ item.title }}</h3>
+    <div class="news-date">{{ item.date }}</div>
+    <p class="news-body">{{ item.body }}</p>
+    {% if item.url %}
+    <a class="news-readmore" href="{{ item.url }}">Click to see more</a>
+    {% endif %}
+  </div>
 </div>
 {% endfor %}
-
-
