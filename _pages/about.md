@@ -1,6 +1,5 @@
 ---
 permalink: /
-%title: "The del Castillo Research Group"
 author_profile: true
 redirect_from: 
   - /about/
