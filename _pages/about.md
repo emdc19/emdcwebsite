@@ -19,23 +19,19 @@ By **complex materials** we refer to both natural and engineered materials which
 
 By **geosystems** we tackle problems spanning geomechanics, structural geology, geotechnical engineering, geotechnical engineering, geophysics, and geohazards, where the mechanics of Earth materials governs processes across scales—from grain-scale interactions and localized deformation to faults, landslides, subsurface systems, and other large-scale geological and engineered systems.
 
+**We are currently recruiting two fully-funded PhD students to join our group**. For more information please see the Opportunities tab. We also welcome inquiries from prospective postdoctoral researchers and other opportunities for collaboration. If our research interests overlap with yours, please feel free to reach out.
+
 ---
 
 ### Overview of Research
 
-The del Castillo Research Group focuses on four interconnected areas:
+The del Castillo Research Group focuses on four main interconnected research thrusts:
 
-![Research framework1]({{ base_path }}/images/stages2.png)
-
-![Research framework2]({{ base_path }}/images/scale2.png)
-
-
-
-### 1. 🌍 Meshfree Computational Modeling of Geomaterials
+### 1. 🌍 Post-Failure Modeling of Natural Hazards and Engineered Structures
 
 We develop meshfree computational frameworks, including smoothed particle hydrodynamics (SPH), to model large-deformation, coupled hydromechanical problems in geotechnics and geomechanics.
 
-### 2. 🌋 Structural Geology, Tectonics, and Volcanology
+### 2. 🌋 Large-Deformation Structural Geology, Tectonics, and Volcanology
 
 We model large-deformation tectonic and volcanic processes, including fault rupture, accretionary wedge formation, and compaction band propagation in porous rock.
 
@@ -47,7 +43,19 @@ We study the mechanics of geomaterials relevant to energy storage, extraction, a
 
 We investigate the fundamental mechanics of fracture and friction in geomaterials, coupling simulation with experimentation to test mechanistic theory.
 
-If you share our vision for advancing resilient, sustainable infrastructure through geomechanics, we would love to hear from you — check out the Research Projects page for more detail, and stay tuned for opportunities to join the group.
+These areas of study help us understand the performance and, critically, the failure of materials as a dynamically evolving process—spanning the initiation and localization of deformation, the propagation and interaction of discrete fractures, and ultimately catastrophic collapse and large-deformation behavior.
+
+![Research framework1]({{ base_path }}/images/stages2.png)
+
+Likewise, we seek to understand material behavior and failure as an interconnected process across spatial scales, linking micromechanical processes at the grain scale to specimen-scale behavior, localization and fracture at the mesoscale, and lastly system-scale geotechnical, geological, and geophysical processes.
+
+![Research framework2]({{ base_path }}/images/scale2.png)
+
+For more details, please check the Research Projects tab.
+
+
+
+---
 
 ## News
 
