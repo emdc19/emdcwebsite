@@ -9,15 +9,15 @@ redirect_from:
 
 ![Lab logo]({{ base_path }}/images/lablogoTrans.png)
 
-Welcome to the **del Castillo Research Group** at Northeastern University, led by Dr. Enrique M. del Castillo. Our objective as a research group is to further
+Welcome to the **del Castillo Research Group** at **Northeastern University**, led by Dr. Enrique M. del Castillo. Our objective as a research group is to further
 fundamental understanding of the mechanics and physics governing complex materials, geosystems, and harnessing this knowledge for solving engineering and geophysical challenges in relation to the built environment. 
 
 From a methodology standpoint, in addition to developing computational methods, we use simulation and experimentation to probe and
-improve mechanistic theory, and to create **computational digital twins** of geomaterials and earth structures.
+improve mechanistic theory, and to create **computational digital twins** of geomaterials and earth structures. We utilize the computational resources from Northeastern's **Explorer cluster**, located in the Massachusetts Green High Performance Computing Center (MGHPCC) and also steward the new **Geotechnical and Sustainable Materials Laboratory** space at Northeastern University, which will include modern material testing and geotechnical equipment, as well as high-velocity optical imaging for DIC analysis.
 
-Our research explores the mechanics and physics of granular and porous media—soil, rock, ice, and snow—using computational and experimental methods, with a focus on natural hazards, geotechnics, and geomechanics across spatial scales.
+By **complex materials** we refer to both natural and engineered materials which exhibit heterogeneity, evolving microstructures, multiple phases, internal interfaces, nonlinear/inelastic behavior, localized failure and fracture, and coupled physical processes. This includes most geomaterials, porous materials, and granular media, which are the second most abundant type of material on Earth.
 
-Since granular materials are the second most abundant type of material on Earth, understanding how they deform, localize, and fail has broad societal benefit—from earthquake hazard mitigation to the design of resilient infrastructure. Our work bridges continuum, discrete, and data-driven computational methods with field and experimental data to advance this understanding.
+By **geosystems** we tackle problems spanning geomechanics, structural geology, geotechnical engineering, geotechnical engineering, geophysics, and geohazards, where the mechanics of Earth materials governs processes across scales—from grain-scale interactions and localized deformation to faults, landslides, subsurface systems, and other large-scale geological and engineered systems.
 
 ---
 
