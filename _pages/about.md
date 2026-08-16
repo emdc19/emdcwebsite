@@ -29,21 +29,21 @@ The del Castillo Research Group focuses on four main interconnected research thr
 
 ### 1. 🌍 Post-Failure Modeling of Natural Hazards and Engineered Structures
 
-We develop meshfree computational frameworks, including smoothed particle hydrodynamics (SPH), to model large-deformation, coupled hydromechanical problems in geotechnics and geomechanics.
+Failure initiation is often only the beginning - the subsequent large-deformation response ultimately governs the severity and extent of natural hazards. We develop meshfree computational frameworks, including smoothed particle hydrodynamics (SPH), that can handle the relevant large-deformation, as well as multiphysics or coupled hydromechanical conditions.
 
 ### 2. 🌋 Large-Deformation Structural Geology, Tectonics, and Volcanology
 
-We model large-deformation tectonic and volcanic processes, including fault rupture, accretionary wedge formation, and compaction band propagation in porous rock.
+Understanding how deformation accumulates and reorganizes geological systems is central to explaining the emergence and evolution of large-scale tectonic and volcanic structures. Our research uses mechanics-based computational models to investigate these large-deformation processes and uncover the physical mechanisms that govern the evolution of geological systems
 
 ### 3. ⚡ Geomaterials & Geomechanics for Sustainable Energy Infrastructure
 
-We study the mechanics of geomaterials relevant to energy storage, extraction, and critical infrastructure resilience.
+We study the mechanics of geomaterials relevant to energy storage, resource extraction, and critical infrastructure resilience, with particular emphasis on the formation and evolution of compaction bands and faults, their influence on permeability and fluid transport, and their implications for subsurface applications such as carbon sequestration.
 
 ### 4. 💥 Nonlinear Mechanics and Physics of Dynamic Fracture
 
-We investigate the fundamental mechanics of fracture and friction in geomaterials, coupling simulation with experimentation to test mechanistic theory.
+We study dynamic fracture, with particular emphasis on crack initiation, propagation, branching, crack interaction, and friction, as well as how stress waves and energy transport govern the evolution of rapidly propagating fractures. We use both experimental and computational approaches, with particular emphasis on developing phase field fracture approaches and consider applications in engineered materials and structures as well as earthquake processes.
 
-These areas of study help us understand the performance and, critically, the failure of materials as a dynamically evolving process—spanning the initiation and localization of deformation, the propagation and interaction of discrete fractures, and ultimately catastrophic collapse and large-deformation behavior.
+Put together, these areas of study help us understand the performance and, critically, the failure of materials as a dynamically evolving process—spanning the initiation and localization of deformation, the propagation and interaction of discrete fractures, and ultimately catastrophic collapse and large-deformation behavior.
 
 ![Research framework1]({{ base_path }}/images/stages2.png)
 
