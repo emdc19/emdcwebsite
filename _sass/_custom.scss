@@ -196,6 +196,12 @@
   content: " →";
 }
 
+.wide-page #main {
+  @include breakpoint($x-large) {
+    max-width: 1600px;
+  }
+}
+
 @media (max-width: 600px) {
   .news-item {
     flex-direction: column;
