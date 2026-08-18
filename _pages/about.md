@@ -41,7 +41,7 @@ We study the mechanics of geomaterials relevant to energy storage, resource extr
 
 ### 4. 💥 Nonlinear Mechanics and Physics of Dynamic Fracture
 
-We study dynamic fracture, with particular emphasis on crack initiation, propagation, branching, crack interaction, and friction, as well as how stress waves and energy transport govern the evolution of rapidly propagating fractures. We use both experimental and computational approaches, with particular emphasis on developing phase field fracture approaches and consider applications in engineered materials and structures as well as earthquake processes.
+We study dynamic fracture, with particular emphasis on crack initiation, propagation, branching, crack interaction, and friction, as well as how stress waves and energy transport govern the evolution of rapidly propagating fractures. We use both experimental and computational approaches, with particular emphasis on developing and improving phase field fracture formulations and consider applications in engineered materials and structures as well as earthquake processes.
 
 Put together, these areas of study help us understand the performance and, critically, the failure of materials as a dynamically evolving process—spanning the initiation and localization of deformation, the propagation and interaction of discrete fractures, and ultimately catastrophic collapse and large-deformation behavior.
 
