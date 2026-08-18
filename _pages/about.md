@@ -37,7 +37,7 @@ Understanding how deformation accumulates and reorganizes geological systems is 
 
 ### 3. ⚡ Geomaterials & Geomechanics for Sustainable Energy Infrastructure
 
-We study the mechanics of geomaterials relevant to energy storage, resource extraction, and critical infrastructure resilience, with particular emphasis on the formation and evolution of compaction bands and faults, their influence on permeability and fluid transport, and their implications for subsurface applications such as carbon sequestration.
+We study the mechanics of geomaterials relevant to energy storage, resource extraction, and sustainable energy infrastructure, with particular emphasis on the formation and evolution of compaction bands and faults, their influence on permeability and fluid transport, and their implications for subsurface applications such as carbon sequestration.
 
 ### 4. 💥 Nonlinear Mechanics and Physics of Dynamic Fracture
 
