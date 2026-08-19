@@ -41,11 +41,13 @@
 }
 
 .research-card__image {
-  flex: 0 0 390px;
+  flex: 0 0 450px;
 }
 
 .research-card__image img {
-  width: 100%;
+  width: 90%;
+  margin: 0 auto;
+  display: block;
   border-radius: 4px;
   border: 1px solid #ddd;
 }
@@ -316,7 +318,8 @@ body,
   font-style: italic;
 }
 .research-card__image-group video {
-  width: 100%;
+  width: 90%;
+  margin: 0 auto;
   border-radius: 4px;
   border: 1px solid #ddd;
   display: block;
