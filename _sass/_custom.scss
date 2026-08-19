@@ -261,3 +261,16 @@
   object-fit: cover;
   object-position: top;   /* anchors to the top, crops from the bottom */
 }
+
+/* Force page background white, footer bar gray */
+body,
+#main,
+.masthead,
+.page,
+.initial-content {
+  background-color: #ffffff !important;
+}
+
+.page__footer {
+  background-color: #e5e5e5 !important;
+}
