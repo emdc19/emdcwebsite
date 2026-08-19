@@ -324,3 +324,8 @@ body,
   border: 1px solid #ddd;
   display: block;
 }
+.research-card__content p,
+.research-card__content h3,
+.research-card__content div {
+  max-width: none;
+}
