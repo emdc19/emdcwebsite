@@ -7,7 +7,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-![Lab logo]({{ base_path }}/images/lablogoTrans.png)
+<img src="{{ base_path }}/images/lablogoTrans" alt="del Castillo Research Group logo" class="homepage-logo">
 
 Welcome to the **del Castillo Research Group** at **Northeastern University**, led by Dr. Enrique M. del Castillo. Our objective as a research group is to further
 fundamental understanding of the mechanics and physics governing **complex materials** and **geosystems**, and harnessing this knowledge for solving engineering and geophysical challenges in relation to the built environment. 
