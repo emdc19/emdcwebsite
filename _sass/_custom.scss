@@ -262,15 +262,22 @@
   object-position: top;   /* anchors to the top, crops from the bottom */
 }
 
-/* Force page background white, footer bar gray */
+/* Force white page background and gray footer background */
+:root {
+  --global-bg-color: #ffffff;
+  --global-footer-bg-color: #e5e5e5;
+}
+
 body,
 #main,
 .masthead,
+.masthead__inner-wrap,
 .page,
 .initial-content {
   background-color: #ffffff !important;
 }
 
-.page__footer {
+.page__footer,
+.page__footer footer {
   background-color: #e5e5e5 !important;
 }
