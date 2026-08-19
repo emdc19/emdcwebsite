@@ -10,7 +10,7 @@ redirect_from:
 ![Lab logo]({{ base_path }}/images/lablogoTrans.png)
 
 Welcome to the **del Castillo Research Group** at **Northeastern University**, led by Dr. Enrique M. del Castillo. Our objective as a research group is to further
-fundamental understanding of the mechanics and physics governing **complex materials**, **geosystems**, and harnessing this knowledge for solving engineering and geophysical challenges in relation to the built environment. 
+fundamental understanding of the mechanics and physics governing **complex materials** and **geosystems**, and harnessing this knowledge for solving engineering and geophysical challenges in relation to the built environment. 
 
 From a methodology standpoint, in addition to developing computational methods, we use simulation and experimentation to probe and
 improve mechanistic theory, and to create **computational digital twins** of geomaterials and earth structures. We utilize the computational resources from Northeastern's **Explorer cluster**, located in the Massachusetts Green High Performance Computing Center (MGHPCC) and also steward the new **Geotechnical and Sustainable Materials Laboratory** space at Northeastern University, which will include modern material testing and geotechnical equipment, as well as high-velocity optical imaging for DIC analysis.
@@ -47,7 +47,7 @@ Put together, these areas of study help us understand the performance and, criti
 
 ![Research framework1]({{ base_path }}/images/stages2.png)
 
-Likewise, we seek to understand material behavior and failure as an interconnected process across spatial scales, linking micromechanical processes at the grain scale to specimen-scale behavior, localization and fracture at the mesoscale, and lastly system-scale geotechnical, geological, and geophysical processes.
+Likewise, we seek to understand and ultimately reliably predict material behavior and failure as an interconnected process across spatial scales, linking micromechanical processes at the grain scale to specimen-scale behavior, localization and fracture at the mesoscale, and lastly system-scale geotechnical, geological, and geophysical processes.
 
 ![Research framework2]({{ base_path }}/images/scale2.png)
 
