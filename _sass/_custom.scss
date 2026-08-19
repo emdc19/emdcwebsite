@@ -1,17 +1,27 @@
 /* Research Projects page styling */
 
 .research-section {
-  border-left: 4px solid #4a7c59;
+  border-left: 4px solid;
   padding-left: 20px;
   margin-bottom: 50px;
 }
-
 .research-section__header {
   font-size: 1.5em;
   font-weight: 700;
-  color: #4a7c59;
   margin-bottom: 5px;
 }
+
+.research-section--1 { border-left-color: #4a7c59; }
+.research-section--1 .research-section__header { color: #4a7c59; }
+
+.research-section--2 { border-left-color: #2a6f97; }
+.research-section--2 .research-section__header { color: #2a6f97; }
+
+.research-section--3 { border-left-color: #b8860b; }
+.research-section--3 .research-section__header { color: #b8860b; }
+
+.research-section--4 { border-left-color: #a33f3f; }
+.research-section--4 .research-section__header { color: #a33f3f; }
 
 .research-section__desc {
   color: #555;
