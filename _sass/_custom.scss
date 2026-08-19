@@ -227,7 +227,7 @@
   align-items: center;
   gap: 16px;
   padding: 6px 0;
-  margin-bottom: 2px;
+  margin-bottom: 0px;
 }
 
 .page__footer footer {
@@ -236,7 +236,7 @@
   padding-bottom: 0.5em !important;
 }
 .lab-footer-bar__logo {
-  height: 95px;
+  height: 85px;
   width: auto;
 }
 
@@ -298,5 +298,5 @@ body,
 
 /* Prevent page content from being hidden behind the fixed footer */
 #main {
-  padding-bottom: 75px;
+  padding-bottom: 60px;
 }
