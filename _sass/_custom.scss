@@ -324,8 +324,15 @@ body,
   border: 1px solid #ddd;
   display: block;
 }
+.research-card {
+  align-items: flex-start;
+}
+
+.research-card__content,
 .research-card__content p,
 .research-card__content h3,
-.research-card__content div {
-  max-width: none;
+.research-card__content div,
+.research-card__content li {
+  max-width: none !important;
+  width: auto !important;
 }
