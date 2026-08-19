@@ -46,13 +46,13 @@ We study dynamic fracture, with particular emphasis on crack initiation, propaga
 Put together, these areas of study help us understand the performance and, critically, the failure of materials as a dynamically evolving process—spanning the initiation and localization of deformation, the propagation and interaction of discrete fractures, and ultimately catastrophic collapse and large-deformation behavior.
 
 <div class="research-framework-crop">
-![Research framework1]({{ base_path }}/images/stages2.png)
+  <img src="{{ base_path }}/images/stages2.png" alt="Failure across stages diagram">
 </div>
 
 Likewise, we seek to understand and ultimately reliably predict material behavior and failure as an interconnected process across spatial scales, linking micromechanical processes at the grain scale to specimen-scale behavior, localization and fracture at the mesoscale, and lastly system-scale geotechnical, geological, and geophysical processes.
 
 <div class="research-framework-crop">
-![Research framework2]({{ base_path }}/images/scale2.png)
+  <img src="{{ base_path }}/images/scale2.png" alt="Failure across stages diagram">
 </div>
 
 For more details, please check the Research Projects tab.
