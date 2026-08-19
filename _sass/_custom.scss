@@ -221,3 +221,29 @@
     max-width: 200px;
   }
 }
+
+.lab-footer-bar {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 12px 0;
+  margin-bottom: 12px;
+}
+
+.lab-footer-bar__logo {
+  height: 60px;
+  width: auto;
+}
+
+.lab-footer-bar__text {
+  font-size: 0.85em;
+  color: #777;
+  line-height: 1.4;
+}
+
+@media (max-width: 500px) {
+  .lab-footer-bar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
