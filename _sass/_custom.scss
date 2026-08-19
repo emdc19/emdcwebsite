@@ -226,17 +226,17 @@
   display: flex;
   align-items: center;
   gap: 16px;
-  padding: 4px 0;
+  padding: 2px 0;
   margin-bottom: 0px;
 }
 
 .page__footer footer {
   margin-top: 0.3em !important;
   padding-top: 0 !important;
-  padding-bottom: 0.5em !important;
+  padding-bottom: 0.3em !important;
 }
 .lab-footer-bar__logo {
-  height: 85px;
+  height: 75px;
   width: auto;
 }
 
@@ -298,5 +298,5 @@ body,
 
 /* Prevent page content from being hidden behind the fixed footer */
 #main {
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
