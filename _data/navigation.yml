@@ -8,17 +8,18 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+
+  - title: "People"
+    url: /portfolio/
+
+  - title: "Research Projects"
+    url: /year-archive/  
+
   - title: "Publications"
     url: https://scholar.google.com/citations?hl=en&user=TC6VCWsAAAAJ
 
-  - title: "Research Projects"
-    url: /year-archive/    
-
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Research Group"
-    url: /portfolio/
         
   - title: "Opportunities"
     url: /files/recruit_ad.pdf
@@ -28,6 +29,4 @@ main:
     
   # - title: "CV"
   #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+
