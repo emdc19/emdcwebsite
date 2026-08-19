@@ -281,3 +281,17 @@ body,
 .page__footer footer {
   background-color: #e5e5e5 !important;
 }
+
+/* Make the footer bar always visible, pinned to the bottom of the viewport */
+.page__footer {
+  position: fixed !important;
+  bottom: 0 !important;
+  left: 0;
+  z-index: 15;
+  margin-top: 0 !important;
+}
+
+/* Prevent page content from being hidden behind the fixed footer */
+#main {
+  padding-bottom: 110px;
+}
