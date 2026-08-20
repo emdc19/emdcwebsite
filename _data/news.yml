@@ -15,8 +15,8 @@
   image:
     src: "https://emdc19.github.io/emdcwebsite/images/seminar_pton.png"
     alt: "Dissertation defense flyer/photo"
-  body: "Titled: "From Localization to Catastrophic Collapse: Computational Approaches for Failure in Complex Materials". Thanks to everyone that attended!"
-
+  body: 'Titled: "From Localization to Catastrophic Collapse: Computational Approaches for Failure in Complex Materials". Thanks to everyone that attended!'
+  
 - title: "Joined Prof. Liuchi Li’s research group at Princeton"
   date: "Sep 1, 2025"
   url: "https://www.liuchili.info/"
