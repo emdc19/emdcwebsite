@@ -1,13 +1,13 @@
 {
-	"name": "OOjs UI icon academic-progressive",
+	"name": "del Castillo Research Group",
 	"icons": [
 		{
-			"src": "/images/favicon-192x192.png",
+			"src": "/emdcwebsite/images/favicon-192x192.png",
 			"sizes": "192x192",
 			"type": "image/png"
 		},
 		{
-			"src": "/images/favicon-512x512.png",
+			"src": "/emdcwebsite/images/favicon-512x512.png",
 			"sizes": "512x512",
 			"type": "image/png"
 		}
