@@ -114,11 +114,11 @@ Methods in Geomechanics</em>, 2024.
     <div class="research-card__content">
       <h3>Fault-propagation Folding and Accretionary Wedge Mechanics</h3>
       <p>
-        Our work investigates how strain localization and fault propagation organize deformation at tectonic scales and ultimately shape large geological structures. Using high-resolution three-dimensional discrete-element models, we study the development of accretionary wedges and show how evolving stress states produce complex sequences of thrust nucleation and propagation. We study the directionality of fault propagation, orientation evolution, and the deformation precursors leading to eventual persistent faults.These results connect the mechanics of strain localization and individual fault growth to the emergence of large-scale thrust networks and the progressive structural evolution of accretionary systems.
+        Our work investigates how strain localization and fault propagation organize deformation at tectonic scales and ultimately shape large geological structures. Using high-resolution three-dimensional discrete-element models, we study the development of accretionary wedges and show how evolving stress states produce complex sequences of thrust nucleation and propagation. We study the directionality of fault propagation, orientation evolution, and the deformation precursors leading to eventual persistent faults. These results connect the mechanics of strain localization and individual fault growth to the emergence of large-scale thrust networks and the progressive structural evolution of accretionary systems.
 
       </p>
       <p>
-        We extend this mechanics-based perspective to the development of doubly vergent wedges, using large-deformation continuum-based simulations to reproduce the contrasting evolution of prowedges and retrowedges and reveal how faulting, uplift, surface deformation, and interactions with basal boundaries collectively control wedge architecture. Beyond frictional tectonic systems, we have also worked on Lagrangian finite-element approaches for salt tectonics, allowing the long-term evolution of highly deformable geological materials and structures to be modeled within a solid-mechanics framework.
+        We extend this mechanics-based perspective to the development of doubly vergent wedges, using large-deformation continuum-based simulations to reproduce the contrasting evolution of prowedges and retrowedges and reveal how faulting, uplift, surface deformation, and interactions with basal boundaries collectively control wedge architecture. Beyond frictional tectonic systems, we have also worked on Lagrangian finite-element approaches for salt tectonics, important in the context of petroleum basins, allowing the long-term evolution and the stress state of highly deformable geological materials and structures to be accurateley modeled within a solid-mechanics framework.
       </p>
       <div class="research-card__pubs">
         <strong>Relevant Publications:</strong>
@@ -167,21 +167,21 @@ rupture in geologic materials with a meshfree continuum method." <em>Acta Geotec
       </figure>
       <figure class="research-card__image">
         <img src="{{ base_path }}/images/3D.png" alt="Kilauea collapse simulation">
-        <figcaption>SPH Kilauea collapse simulations showing emerging ring faults.</figcaption>
+        <figcaption>SPH Kilauea caldera collapse simulations showing emerging ring faults.</figcaption>
       </figure>
     </div>
     <div class="research-card__content">
       <h3>Modeling Volcanic Caldera Collapses</h3>
       <p>
-       We use large-deformation computational mechanics to investigate pressure-driven volcanic caldera collapse, focusing on the well-constrained 2018 Kīlauea event. Our models capture the evolution from magma-reservoir depressurization to crustal deformation, strain localization, and eventual collapse without prescribing the motion of the collapsing block.
+       We use large-deformation computational mechanics to investigate pressure-driven volcanic caldera collapse, focusing on the well-constrained 2018 Kīlauea event. Our models capture the evolution from magma-reservoir depressurization to crustal deformation, stress arching strain localization, and eventual collapse without prescribing the motion of the collapsing block.
       </p>
       <p>
-       The simulations reproduce the critical pressure change associated with collapse and reveal the evolution of shear bands, stress arching, and distributed plastic deformation. The results highlight how pressure-driven loading fundamentally controls caldera-collapse mechanics and demonstrate the potential of large-deformation methods for modeling volcanic deformation and failure.
+       The simulations reproduce the critical pressure change associated with the 2018 Kīlauea caldera collapse as understood from geodetic measurements. By using an elastoplastic constitutive modeling approach, our work underlines the importance of including inelastic deformation within the subsiding piston-like block, even in the case of non-localized distributed deformation, as opposed to fully elastic solutions. The results highlight how pressure-driven loading fundamentally controls caldera-collapse mechanics and demonstrate the potential of large-deformation methods for modeling volcanic deformation and failure.
       </p>
       <div class="research-card__pubs">
         <strong>Relevant Publications:</strong>
         E. M. del Castillo & P. Segall. "Large deformation, pressure-driven mechanistic modeling of
-the 2018 caldera collapse at the Kilauea Volcano, HI." <em>Journal of Geophysical Research: Solid Earth</em>, 2026
+the 2018 caldera collapse at the Kīlauea Volcano, HI." <em>Journal of Geophysical Research: Solid Earth</em>, 2026
         <br>
         <a class="btn-pub" href="https://doi.org/10.1029/2025JB032775">🔗 View Publisher DOI</a>
         <a class="btn-pub" href="https://drive.google.com/file/d/1cLpqzKcFtmvIJQ6FztGeennP6jPWaCqM/view?usp=drive_link">📄 Download PDF</a>
@@ -201,7 +201,7 @@ the 2018 caldera collapse at the Kilauea Volcano, HI." <em>Journal of Geophysica
     <div class="research-card__image-group">
       <figure class="research-card__image">
         <img src="{{ base_path }}/images/CANN.png" alt="CANNs">
-        <figcaption>Architecture of thermodynamically consistant constitutive artificial neural network (CANN) for shale rock.</figcaption>
+        <figcaption>Architecture of thermodynamically consistent constitutive artificial neural network (CANN) for shale rock.</figcaption>
       </figure>
       <figure class="research-card__image">
         <img src="{{ base_path }}/images/compaction.png" alt="Compaction bands">
@@ -209,12 +209,12 @@ the 2018 caldera collapse at the Kilauea Volcano, HI." <em>Journal of Geophysica
       </figure>
     </div>
     <div class="research-card__content">
-      <h3>Mechanistic and Data-driven Modeling</h3>
+      <h3>Mechanistic and Data-driven Constitutive Modeling</h3>
       <p>
-        A particular focus is the formation and propagation of compaction bands in porous rock, where localized pore collapse produces narrow zones of intense volumetric deformation. We investigate the mechanics controlling their nucleation and evolution and how these localized structures alter porosity, permeability, and subsurface fluid migration, with direct implications for fluid injection, storage, and containment.
+        A particular focus is the formation and propagation of compaction bands in porous rock via a nonlocal kernel-based continuum damage model which we introduce, where damage driven by grain crushing produces narrow zones of intense volumetric deformation. We use the discontinuous bifurcation criterion, based on the determinant of the acoustic tensor, to interpret and explain the orientations of the resulting compaction bands after they emerge, correctly capturing behavior seen in experiments. We investigate the mechanics controlling their nucleation and evolution, and how these localized structures alter porosity, permeability, and subsurface fluid migration, with direct implications for fluid injection, storage, and containment.
       </p>
       <p>
-        More broadly, accurately predicting these processes requires constitutive models capable of representing the complex behavior of geological materials. In ongoing work, we use constitutive neural networks to discover a transversely isotropic hyperelastic model for shale, providing a data-driven approach for capturing its strongly anisotropic mechanical response while retaining a mechanics-based constitutive structure.
+        More broadly, accurately predicting these processes requires constitutive models capable of representing the complex behavior of geological materials. Yet many popular constitutive models are phenomenological and most involve some degree of user bias. In ongoing work, we use so-called constitutive neural networks, which offer a thermodynamically consistent framework to automatically discover the best fitting transversely isotropic hyperelastic model for shale, given available experimental material-testing data, providing a data-driven approach for capturing its strongly anisotropic mechanical response while retaining a mechanics-based constitutive structure.
       </p>
       <div class="research-card__pubs">
         <strong>Relevant Publications:</strong>
@@ -263,10 +263,10 @@ the 2018 caldera collapse at the Kilauea Volcano, HI." <em>Journal of Geophysica
     <div class="research-card__content">
       <h3>Variational Phase-Field Method for Dynamic 3D Cracks</h3>
       <p>
-       Our recent work has spanned efforts to ameliorate features of the VPF method to help determine proper crack initialization procedures, reduce excessive dissipation and crack widening seen in the basic method, and work to closely approximate theoretical expectations from linear elastic fracture mechanics (LEFM) from a kinematic and energetic standpoint. Our future work in this area focuses on mode-II cracks, and properly capturing the dynamics of shear cracks using the VPF method. Ultimately, this work aims to extend VPF methods toward a robust framework for modeling dynamic shear rupture,
+       Our recent work has spanned efforts to ameliorate features of the VPF method to help determine proper crack initialization procedures, reduce excessive dissipation and crack widening seen in the original method, and work to closely approximate theoretical expectations from linear elastic fracture mechanics (LEFM) from a kinematic and energetic standpoint. Our future work in this area focuses on mode-II cracks, and properly capturing the dynamics of shear cracks using the VPF method. Ultimately, this work aims to extend VPF methods toward a robust framework for modeling dynamic shear rupture,
       </p>
       <p>
-        Additionally, our work focuses on a novel crack steering approach which can be applied to existing cracks in infrastructure, which works by selectively constraining the out-of-plane displacement field of a particular structural element. Through numerical simulations and analogous experimentation, we seek to understand the capabilities and mechanistic underpinnings of this new approach, which can work in homogeneous materials, and is a markedly different mechanism from conventional material-centered fracture resistance approaches based on inclusions, interfaces, or spatial variations in toughness applied in architected materials. Nevertheless, we are also investigating possibilities for further increasing fracture resistance in engineered materials using a combination of our nondestructive approach with a materials-centered one.
+        Additionally, our research focuses on a novel crack steering approach which can be applied to existing cracks in infrastructure, which works by selectively constraining the out-of-plane displacement field of a particular structural element. Through numerical simulations and analogous experimentation, we seek to understand the capabilities and mechanistic underpinnings of this new approach, which can work in homogeneous materials, and is a markedly different mechanism from conventional material-centered fracture resistance approaches based on inclusions, interfaces, or spatial variations in toughness applied in architected materials. Nevertheless, we are also investigating possibilities for further increasing fracture resistance in engineered materials using a combination of our nondestructive approach with a materials-centered one.
       </p>
       <div class="research-card__pubs">
         <strong>Relevant Publications:</strong>
