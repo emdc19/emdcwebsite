@@ -1,13 +1,13 @@
 
-- title: "Our first paper from my postdoc published in IJSS"
+- title: "Our first paper published in IJSS"
   date: "July 16, 2026"
   url: "https://drive.google.com/file/d/1rtM7bAOWTW4yM8h00fLjlRLGMiDGxC44/view?usp=drive_link"
-  body: "Our paper focusing on the ability of the dynamic variational phase-field fracture method to adhere to LEFM theory was published in the International Journal of Solids and Structures."
+  body: "Our recent paper focusing on the ability of the dynamic variational phase-field fracture method to adhere to LEFM theory, written together with Prof. Liuchi Li (Princeton), was published in the International Journal of Solids and Structures."
 
 - title: "Officially joined Northeastern University as an assistant professor"
   date: "July 1, 2026"
   url: "https://coe.northeastern.edu/people/del-castillo-enrique/"
-  body: "I am happy to announce that I have oficially started as an assistant professor in the Department of Civil and Environmental Engineering at Northeastern University."
+  body: "I am excited to announce that I have oficially started as an assistant professor in the Department of Civil and Environmental Engineering at Northeastern University."
 
 - title: "Gave the CEE department seminar at Princeton"
   date: "June 10, 2025"
@@ -17,20 +17,3 @@
     alt: "Dissertation defense flyer/photo"
   body: 'Titled: "From Localization to Catastrophic Collapse: Computational Approaches for Failure in Complex Materials". Thanks to everyone that attended!'
   
-- title: "Joined Prof. Liuchi Li’s research group at Princeton"
-  date: "Sep 1, 2025"
-  url: "https://www.liuchili.info/"
-  body: "I am excited to announce that I have joined the research group of Prof. Liuchi Li in the Department of Civil and Environmental Engineering at Princeton University as a postdoctoral research associate."
-
-- title: "Submitted my dissertation and graduated from Stanford"
-  date: "Jun 15, 2025"
-  url: "https://searchworks.stanford.edu/view/in00000451198"
-  body: "I submitted my doctoral dissertation “Large deformation modeling of dry and saturated geomaterials in geotechnics and tectonics using smoothed particle hydrodynamics,” advised by Prof. Ronaldo I. Borja, and graduated from Stanford University."
-
-- title: "Defended my dissertation at Stanford"
-  date: "Jan 31, 2025"
-  url: "https://emdc19.github.io/emdcwebsite/files/dissertationflyer.pdf"
-  image:
-    src: "https://emdc19.github.io/emdcwebsite/images/defense.jpg"
-    alt: "Dissertation defense flyer/photo"
-  body: "Chaired by Prof. Ellen Kuhl, with dissertation committee members Prof. Ronaldo I. Borja, Prof. Christian Linder, Prof. Paul Segall, and Prof. Nicholas Ouellette."
