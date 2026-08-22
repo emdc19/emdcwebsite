@@ -13,7 +13,7 @@ From a methodology standpoint, in addition to developing both mechanistic and da
 
 <figure class="content-figure">
   <img src="{{ base_path }}/images/fotos.png" alt="overview foto">
-  <figcaption>Illustrative examples. (Top row) exposed fault plane slick and slides in Oregon, Dune du Pilat in France. (Bottom row) Folded and overturned flysch in Zumaia Spain, lahar (debris flow) deposit at Mt. Lassen California. </figcaption>
+  <figcaption>Illustrative examples. (Top row) exposed fault plane with slick and slides in Oregon, Dune du Pilat in France. (Bottom row) Folded and overturned flysch in Zumaia Spain, lahar (debris flow) deposit at Mt. Lassen California. </figcaption>
 </figure>
 
 By **complex materials** we refer to both natural and engineered materials which exhibit heterogeneity, evolving microstructures, multiple phases, internal interfaces, nonlinear/inelastic behavior, localized failure and fracture, and coupled physical processes. This includes most geomaterials, porous materials, and granular media, which are the second most abundant type of material on Earth.
