@@ -15,7 +15,7 @@ From a methodology standpoint, in addition to developing both mechanistic and da
 
 By **complex materials** we refer to both natural and engineered materials which exhibit heterogeneity, evolving microstructures, multiple phases, internal interfaces, nonlinear/inelastic behavior, localized failure and fracture, and coupled physical processes. This includes most geomaterials, porous materials, and granular media, which are the second most abundant type of material on Earth.
 
-By **geosystems** we tackle problems spanning geomechanics, structural geology, geotechnical engineering, geotechnical engineering, geophysics, and geohazards, where the mechanics of Earth materials governs processes across scales—from grain-scale interactions and localized deformation to faults, landslides, subsurface systems, and other large-scale geological and engineered systems.
+By **geosystems** we tackle problems spanning geomechanics, structural geology, geotechnical engineering, geophysics, and geohazards, where the mechanics of Earth materials governs processes across scales—from grain-scale interactions and localized deformation to faults, landslides, subsurface systems, and other large-scale geological and engineered systems.
 
 **We are currently recruiting two fully-funded PhD students to join our group**. For more information please see the Opportunities tab. We also welcome inquiries from prospective postdoctoral researchers and other opportunities for collaboration. If our research interests overlap with yours, please feel free to reach out.
 
