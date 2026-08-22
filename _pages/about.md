@@ -7,7 +7,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-<img src="{{ base_path }}/images/lablogoTrans.png" alt="del Castillo Research Group logo" class="homepage-logo">
+<img src="{{ base_path }}/images/fotos.png" alt="del Castillo Research Group logo" class="homepage-logo">
 
 Welcome to the **del Castillo Research Group** at **Northeastern University**, led by Dr. Enrique M. del Castillo. Our objective as a research group is to further fundamental understanding of the mechanics and physics governing **complex materials** and **geosystems**, and harness this knowledge for solving engineering and geophysical challenges in relation to the built environment. 
 
@@ -18,6 +18,8 @@ By **complex materials** we refer to both natural and engineered materials which
 By **geosystems** we tackle problems spanning geomechanics, structural geology, geotechnical engineering, geophysics, and geohazards, where the mechanics of Earth materials governs processes across scales—from grain-scale interactions and localized deformation to faults, landslides, subsurface systems, and other large-scale geological and engineered systems.
 
 **We are currently recruiting two fully-funded PhD students to join our group**. For more information please see the Opportunities tab. We also welcome inquiries from prospective postdoctoral researchers and other opportunities for collaboration. If our research interests overlap with yours, please feel free to reach out.
+
+<img src="{{ base_path }}/images/lablogoTrans.png" alt="del Castillo Research Group logo" class="homepage-logo">
 
 ---
 
