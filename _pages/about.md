@@ -11,7 +11,7 @@ Welcome to the **del Castillo Research Group** at **Northeastern University**, l
 
 From a methodology standpoint, in addition to developing both mechanistic and data-driven computational methods, we use simulation and experimentation to probe and improve mechanistic theory, and create **computational digital twins** of geomaterials and earth structures. We utilize the computational resources from Northeastern's **Explorer cluster**, located in the Massachusetts Green High Performance Computing Center (MGHPCC) and also steward the new **Geotechnical and Sustainable Materials Laboratory** space at Northeastern University, which will include modern material testing and geotechnical equipment, as well as high-velocity optical imaging for DIC analysis.
 
-<img src="{{ base_path }}/images/fotos.png" alt="del Castillo Research Group logo" class="homepage-logo">
+<img src="{{ base_path }}/images/fotos.png" alt="overview foto" class="homepage-logo">
 
 By **complex materials** we refer to both natural and engineered materials which exhibit heterogeneity, evolving microstructures, multiple phases, internal interfaces, nonlinear/inelastic behavior, localized failure and fracture, and coupled physical processes. This includes most geomaterials, porous materials, and granular media, which are the second most abundant type of material on Earth.
 
