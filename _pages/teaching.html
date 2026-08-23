@@ -7,6 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+<h2 id="northeastern">Northeastern University</h2>
+{% assign neu_teaching = site.teaching | where_exp: "item", "item.venue contains 'Northeastern'" %}
+{% for post in neu_teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2 id="stanford">Stanford University</h2>
+{% assign stanford_teaching = site.teaching | where_exp: "item", "item.venue contains 'Stanford'" %}
+{% for post in stanford_teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
