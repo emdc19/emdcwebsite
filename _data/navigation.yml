@@ -21,8 +21,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
         
-  - title: "Opportunities"
-    url: /files/recruit_ad.pdf
+- title: "Opportunities"
+    url: /opportunities/
     
   - title: "CV"
     url: /files/cv_Enrique2026.pdf
