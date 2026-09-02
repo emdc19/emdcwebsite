@@ -13,8 +13,7 @@ author_profile: true
   <h3>Joining the Research Group</h3>
   <p><strong>Status [09/2/2026]:</strong> I am recruiting two fully funded PhD students to join our group. See the informational flyer below for details.</p>
 </div>
-<p>PLACEHOLDER description paragraph.</p>
-  <p>For full position details and eligibility information, you can view or download our official recruitment flyer below:</p>
+
 <iframe class="pdf-embed" src="{{ base_path }}/files/recruit_add.pdf"></iframe>
 </div>
 
