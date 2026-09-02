@@ -14,6 +14,8 @@ author_profile: true
   <p><strong>Status [PLACEHOLDER]:</strong> PLACEHOLDER status text.</p>
 </div>
 <p>PLACEHOLDER description paragraph.</p>
+  <p>For full position details and eligibility information, you can view or download our official recruitment flyer below:</p>
+<iframe class="pdf-embed" src="{{ base_path }}/files/recruit_add.pdf"></iframe>
 </div>
 
 <div class="opportunity-section">
@@ -34,8 +36,3 @@ author_profile: true
 <p>PLACEHOLDER description paragraph.</p>
 </div>
 
-<div class="opportunity-section">
-<h2>📄 Recruitment Announcement PDF</h2>
-<p>For full position details and eligibility information, you can view or download our official recruitment flyer below:</p>
-<iframe class="pdf-embed" src="{{ base_path }}/files/recruit_ad.pdf"></iframe>
-</div>
