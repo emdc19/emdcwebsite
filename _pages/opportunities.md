@@ -20,9 +20,9 @@ author_profile: true
 <h2>Postdoctoral Researchers</h2>
 <div class="opportunity-status">
   <h3>Status</h3>
-  <p>PLACEHOLDER status text.</p>
+   <p><strong>Status [09/2/2026]:</strong> We welcome postdoctoral researchers interested in joining our group!.</p>
 </div>
-<p>PLACEHOLDER description paragraph.</p>
+<p> Our research group currently has funding available for one postdoc for a two year project. Additional interested postdocs are also encouraged to apply to fellowships such as the NSF Earth Sciences Postdoctoral Fellowships (EAR-PF), Ford Foundation Postdoctoral Fellowships, and Marie Skłodowska-Curie Actions (MSCA) Global Fellowships (for EU citizens or residents).</p>
 </div>
 
 <div class="opportunity-section">
@@ -30,7 +30,7 @@ author_profile: true
 <div class="opportunity-status">
   <p><strong>Status [09/2/2026]:</strong> We are open to research opportunities for interested MS students enrolled at Northeastern.</p>
 </div>
-<p>If you are an MS student at Northeastern and your academic or research interests overlap with our group, please get in touch! I am open to supervising master's thesis and independent study projects on a number of topics.</p>
+<p>If you are an MS student at Northeastern and your academic or research interests overlap with our group, please get in touch! I am open to supervising MS theses and independent study projects on a number of topics.</p>
 </div>
 
 <div class="opportunity-section">
@@ -39,6 +39,6 @@ author_profile: true
   <h3>Status</h3>
   <p><strong>Status [09/2/2026]:</strong> We are open to research opportunities for interested undergraduate students enrolled at Northeastern.</p>
 </div>
-<p>Undergraduate students are encouraged to reach out if they are interested in during the school year or summer and are encouraged to apply to funding opportunities such as the PEAK Experiences Awards. For student's interested in research Co-ops, we encourage students to apply to the AJC Merit Research Scholarship. </p>
+<p>Undergraduate students interested in conducting research in our lab group during the school year or summer are encouraged to apply to funding opportunities such as the PEAK Experiences Awards. For students interested in research Co-ops, we recommend students apply to the AJC Merit Research Scholarship. </p>
 </div>
 
