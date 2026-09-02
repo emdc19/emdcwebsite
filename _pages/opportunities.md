@@ -8,16 +8,16 @@ author_profile: true
 {% include base_path %}
 
 <div class="opportunity-section">
-<h2>🎓 Graduate Students (MS/PhD)</h2>
+<h2>Doctoral Students (PhD)</h2>
 <div class="opportunity-status">
-  <h3>🚀 Joining the Research Group</h3>
+  <h3>Joining the Research Group</h3>
   <p><strong>Status [PLACEHOLDER]:</strong> PLACEHOLDER status text.</p>
 </div>
 <p>PLACEHOLDER description paragraph.</p>
 </div>
 
 <div class="opportunity-section">
-<h2>🔬 Postdoctoral Researchers</h2>
+<h2>Postdoctoral Researchers</h2>
 <div class="opportunity-status">
   <h3>Status</h3>
   <p>PLACEHOLDER status text.</p>
@@ -26,7 +26,7 @@ author_profile: true
 </div>
 
 <div class="opportunity-section">
-<h2>📘 Undergraduate Researchers</h2>
+<h2>Undergraduate Researchers</h2>
 <div class="opportunity-status">
   <h3>Status</h3>
   <p>PLACEHOLDER status text.</p>
