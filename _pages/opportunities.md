@@ -10,7 +10,6 @@ author_profile: true
 <div class="opportunity-section">
 <h2>Doctoral Students (PhD)</h2>
 <div class="opportunity-status">
-  <h3>Joining the Research Group</h3>
   <p><strong>Status [09/2/2026]:</strong> I am recruiting two fully funded PhD students to join our group. See the informational flyer below for details.</p>
 </div>
 
