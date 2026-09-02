@@ -20,7 +20,7 @@ author_profile: true
 <h2>Postdoctoral Researchers</h2>
 <div class="opportunity-status">
   <h3>Status</h3>
-   <p><strong>Status [09/2/2026]:</strong> We welcome postdoctoral researchers interested in joining our group!.</p>
+   <p><strong>Status [09/2/2026]:</strong> We welcome postdoctoral researchers interested in joining our group!</p>
 </div>
 <p> Our research group currently has funding available for one postdoc for a two year project. Additional interested postdocs are also encouraged to apply to fellowships such as the NSF Earth Sciences Postdoctoral Fellowships (EAR-PF), Ford Foundation Postdoctoral Fellowships, and Marie Skłodowska-Curie Actions (MSCA) Global Fellowships (for EU citizens or residents).</p>
 </div>
